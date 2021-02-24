@@ -1,3 +1,5 @@
+Note: I'm making a game and using this as a base. Thanks Micheal Pearson for the great starter :D 
+
 # Dungeon Dash!
 
 An experiment with making a dungeon crawler with Open Source or public domain assets, using Phaser 3 & Typescript.
